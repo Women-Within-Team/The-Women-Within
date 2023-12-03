@@ -1,6 +1,7 @@
 # The-Women-Within
 
-![The Women Within](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fda43e9ab-c5f4-49b0-9d53-43497dd810ac%2F1c75b434-8050-4c7e-9879-11718ec9b25f%2FIMG_0219.png?table=block&id=58d79350-33e4-468a-991c-1c3d195da50b&spaceId=da43e9ab-c5f4-49b0-9d53-43497dd810ac&width=2000&userId=d2475824-3028-45b8-a624-8186e8ad8753&cache=v2)
+![The Women Within](https://github.com/yaseminmenan/The-Women-Within/blob/main/Assets/Docs/women_within_banner.png)
+
 ## Overview ##
 
 TODO
