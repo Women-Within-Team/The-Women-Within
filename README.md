@@ -1,10 +1,10 @@
-# The-Women-Within
+# The Women Within
 
 ![The Women Within](https://github.com/yaseminmenan/The-Women-Within/blob/main/Assets/Docs/women_within_banner.png)
 
 ## Overview ##
 
-TODO
+"A woman wakes up in a strange manor with no prior memories. Doors lead to a one-way path, but she must goback. Are these rooms real? Are these women real? I don’t know anymore..."
 
 ## Project structure ##
 
@@ -40,7 +40,7 @@ Follow a branching model to organize development efforts:
 
 ### Coding Standards ###
 
-Adhere to the coding standards defined in [code-contributing](https://github.com/yaseminmenan/The-Women-Within/blob/main/PROGRAMMING_GUIDE.md).  
+Adhere to the coding standards defined in [code-contributing](https://github.com/Women-Within-Team/The-Women-Within/blob/main/PROGRAMMING_GUIDE.md).  
 
 ### Start Developing ###
 
