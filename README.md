@@ -43,6 +43,13 @@ Adhere to the coding standards defined in [code-contributing](https://github.com
 
 ### Start Developing ###
 
+**Always** pull before creating a new branch to get the latest changes on your local repository.
+
+```bash
+git checkout main
+git pull
+``` 
+
 Create your own branch, chose a name descriptive for your work.
 
 ```bash
